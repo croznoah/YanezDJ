@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="14in"
+   height="15in"
+   viewBox="0 0 355.6 381"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="background.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="in"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="0.35856832"
+     inkscape:cx="737.65579"
+     inkscape:cy="503.39082"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1552" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1552"
+       transform="matrix(0.26458333,0,0,0.26458333,-225.32702,-387.6282)">
+      <circle
+         style="fill:#ee2e0c;fill-opacity:0.605249;stroke-width:0.594768;-inkscape-stroke:none;stop-color:#000000"
+         id="path2071-5"
+         cx="2051.1482"
+         cy="1864.6168"
+         r="384" />
+      <circle
+         style="fill:#eee90c;fill-opacity:0.605249;stroke-width:0.594768;-inkscape-stroke:none;stop-color:#000000"
+         id="path2071-5-3"
+         cx="1116.6377"
+         cy="2454.0979"
+         r="384"
+         inkscape:transform-center-x="-138.15227"
+         inkscape:transform-center-y="-57.336219" />
+      <circle
+         style="fill:#01b7ff;fill-opacity:0.603922;stroke-width:0.594768;-inkscape-stroke:none;stop-color:#000000"
+         id="path2071"
+         cx="900.15735"
+         cy="1324.2194"
+         r="384" />
+    </g>
+  </g>
+</svg>
